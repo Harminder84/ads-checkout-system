@@ -1,7 +1,7 @@
 import { getAdPrice } from "./ad-price";
 import { AdType, PricingRule } from "./types";
 
-export const GH_TOKEN = "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";
+export const GH_TOKEN = "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";
 export const JWT="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c";
 export class AdsCheckout {
 
