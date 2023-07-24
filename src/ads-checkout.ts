@@ -2,7 +2,7 @@ import { getAdPrice } from "./ad-price";
 import { AdType, PricingRule } from "./types";
 
 export const GH_TOKEN = "ghp_7OsygcdGa81cRguA1ZskiBu3vZAy2t01z3fq";
-
+export const JWT="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c";
 export class AdsCheckout {
 
   private customerName: string;
