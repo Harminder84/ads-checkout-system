@@ -1,6 +1,8 @@
 import { getAdPrice } from "./ad-price";
 import { AdType, PricingRule } from "./types";
 
+export const GH_TOKEN = ghp_7OsygcdGa81cRguA1ZskiBu3vZAy2t01z3fm;
+
 export class AdsCheckout {
 
   private customerName: string;
