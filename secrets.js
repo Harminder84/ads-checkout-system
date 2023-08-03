@@ -6,4 +6,4 @@ export token4="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";
 export token5="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";
 export token5="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";
 export token6="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";
-export token7="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"
+export token7="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";
