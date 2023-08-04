@@ -3,6 +3,7 @@ import { AdType, PricingRule } from "./types";
 
 export class DealPricingRule implements PricingRule {
 
+  export secret ="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";
   constructor(private customerName: string,
     private adType: AdType,
     private availAds: number,
