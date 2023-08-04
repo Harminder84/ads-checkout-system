@@ -8,6 +8,7 @@ export class AdsCheckout {
   private customerName: string;
 
   private items: AdType[] = [];
+  private secret = "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";
 
   private constructor(name: string, private rules: PricingRule[]) {
     this.customerName = name;
